@@ -9,3 +9,5 @@ Real single-cell RNA-seq datasets, including approximately 1.3 million cells (1.
 ## Workflow for Large single-cell RNA-seq data in Bioconductor
 To guide the user in the pipeline setting in the Bioconductor framework we also provide a vignette featuring the most efficient methods regarding scalability, computational time, and memory usage developed, serving as a valuable resource for researchers working with large single-cell RNA seq data.
 
+Workflow for Large single-cell RNA-seq data in Bioconductor: https://htmlpreview.github.io/?https://github.com/billila/sc_workflow/blob/main/large_sc_workflow.html
+
